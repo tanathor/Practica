@@ -1,2 +1,3 @@
 texto local para el segundo commit... 
 Modificado para GUI
+Modificado visual studio code
