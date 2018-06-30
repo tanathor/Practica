@@ -1,1 +1,2 @@
-texto local para el segundo commit... prueba
+texto local para el segundo commit... 
+Modificado para GUI
